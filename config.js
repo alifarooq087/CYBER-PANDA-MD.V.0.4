@@ -12,7 +12,7 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+923006586907", "+923156598103"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923006586907", "+923156598103"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+923006586907"];
+global.OwnerName = "FAROOQ AHMAD S";
+global.BotName = "FAROOQ AHMAD S";
+global.packname = "🦋 │FAROOQ AHMAD S 🦋";                             //Do not change.
+global.author = "FAROOQ AHMAD S";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
